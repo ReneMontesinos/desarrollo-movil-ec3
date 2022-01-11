@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/drawable-v24/back_button.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/drawable-v24/background_shape.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/drawable-v24/button_background_blue.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/drawable-v24/ic_baseline_nights_stay_24.xml" value="0.39427083333333335" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/font/poppins.xml" value="0.5802083333333333" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/layout/account_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/layout/activity_mainscreen.xml" value="0.55" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/layout/backdrop.xml" value="0.3076923076923077" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/layout/home_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/layout/login_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/layout/product_card.xml" value="0.55" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/layout/slider_layout.xml" value="0.55" />
+        <entry key="..\:/Users/gmont/AndroidStudioProjects/Ec3/app/src/main/res/menu/toolbar_menu.xml" value="0.55" />
+        <entry key="..\:/Users/gmont/Desktop/Ec3/app/src/main/res/layout/activity_main.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/gmont/Desktop/Ec3/app/src/main/res/layout/activity_mainscreen.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/gmont/Desktop/Ec3/app/src/main/res/layout/home_fragment.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/gmont/Desktop/Ec3/app/src/main/res/layout/slider_layout.xml" value="0.2907608695652174" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
